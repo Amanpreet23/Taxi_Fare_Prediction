@@ -1,2 +1,1 @@
-# Taxi_Fare_Prediction
-The project aims to predict the taxi fare in New York City based on the pickup and drop-off locations specified. The model uses simple linear regression algorithm to establish a relationship between the distance between pickup and drop-off locations and the fare amount. The dataset used for the project includes the pickup and drop-off longitude and latitude coordinates, pickup and drop-off dates and times, passenger counts, and fare amounts.
+
